@@ -1,4 +1,4 @@
-# Task 1: Student Score Prediction
+# Student Score Prediction
 
 Predicts students' exam scores from their study hours using linear regression.
 
